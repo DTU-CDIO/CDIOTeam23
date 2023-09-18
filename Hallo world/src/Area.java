@@ -1,4 +1,3 @@
-package javaProjects.src;
 public class Area {
     public static void main(String[] argc) {
         int width = 3;
